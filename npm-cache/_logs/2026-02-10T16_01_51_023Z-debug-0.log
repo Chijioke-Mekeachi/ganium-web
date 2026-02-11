@@ -1,0 +1,20 @@
+0 verbose cli /home/parrotos/.nvm/versions/node/v22.21.1/bin/node /home/parrotos/.nvm/versions/node/v22.21.1/bin/npm
+1 info using npm@11.8.0
+2 info using node@v22.21.1
+3 silly config load:file:/home/parrotos/.nvm/versions/node/v22.21.1/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/parrotos/mypro/sentinelai/frontend/frontend/verify-ganium/.npmrc
+5 silly config load:file:/home/parrotos/.npmrc
+6 silly config load:file:/home/parrotos/.nvm/versions/node/v22.21.1/etc/npmrc
+7 verbose title npm install express cors cookie-parser jsonwebtoken
+8 verbose argv "install" "express" "cors" "cookie-parser" "jsonwebtoken" "--cache" "./npm-cache" "--no-audit" "--no-fund"
+9 verbose logfile logs-max:10 dir:/home/parrotos/mypro/sentinelai/frontend/frontend/verify-ganium/npm-cache/_logs/2026-02-10T16_01_51_023Z-
+10 verbose logfile /home/parrotos/mypro/sentinelai/frontend/frontend/verify-ganium/npm-cache/_logs/2026-02-10T16_01_51_023Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET https://registry.npmjs.org/npm attempt 1 failed with EAI_AGAIN
+13 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+14 silly idealTree buildDeps
+15 silly fetch manifest express@*
+16 silly packumentCache full:https://registry.npmjs.org/express cache-miss
+17 http fetch GET https://registry.npmjs.org/express attempt 1 failed with EAI_AGAIN
+18 http fetch GET https://registry.npmjs.org/npm attempt 2 failed with EAI_AGAIN
+19 http fetch GET https://registry.npmjs.org/express attempt 2 failed with EAI_AGAIN
